@@ -6,6 +6,7 @@ include __DIR__ . '/../variables.php';
 ?>
 
 <nav>
+  <hr>
   <div><?php echo $websiteName ?></div>
   Sito della Classe #88
   <hr>

@@ -1,5 +1,4 @@
 <?php 
-
 // questo file sarà soltanto un file di utility, ovvero
 // ci fornirà degli strumenti che utilizzeremo in altri posti
 // del nostro sito web
